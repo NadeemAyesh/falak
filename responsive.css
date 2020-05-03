@@ -1,0 +1,589 @@
+
+@media (min-width: 1366px) {
+    .bg-main {
+        width: 1240px;
+    }
+
+    .h-window {
+        min-height: 454px;
+    }
+
+    .container {
+        max-width: 1240px;
+    }
+}
+@media (min-width: 991px) and (max-width: 1366px) {
+    .bg-main {
+        width: 991px;
+    }
+
+    .h-window {
+        min-height: 354px;
+    }
+
+    .about-text {
+        margin-top: 125px;
+    }
+
+    .step-item p {
+        height: 54px;
+        overflow: hidden;
+    }
+
+    .steps .sec-title {
+        margin-top: 202px;
+    }
+
+    .first-time {
+        bottom: -173px;
+    }
+
+    .second-time {
+        bottom: -99px;
+    }
+
+    .third-time {
+        bottom: -212px;
+    }
+
+    .fourth-time {
+        left: -90px;
+        top: -30px;
+    }
+
+    .crietria .sec-title {
+        margin-top: 0;
+    }
+
+    .schedule .sec-title {
+        margin-top: 50px;
+    }
+
+    .schedule {
+        min-height: 1045px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-text {
+        margin-top: 70px;
+    }
+
+    .bg-main {
+        width: 768px;
+        top: 250px;
+    }
+
+    .h-window {
+        min-height: 554px;
+    }
+
+    .hero-text {
+        text-align: center;
+    }
+
+    .hero-text h2 {
+        font-size: 35px;
+    }
+
+    .hero-text h3 {
+        font-size: 30px;
+    }
+
+    .about-us {
+        padding-right: 200px;
+        text-align: center;
+    }
+
+    .about-text {
+        margin-top: 500px;
+    }
+
+    .steps .sec-title {
+        text-align: center;
+        margin-top: 633px;
+    }
+
+    .step-item {
+        margin-bottom: 35px;
+    }
+
+    .timeline .sec-title {
+        margin-top: 587px;
+    }
+
+    .timeline-item {
+        text-align: left !important;
+        position: static;
+    }
+
+    .span-dot {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .timline-holder {
+        margin-top: 190px;
+    }
+
+    .first-time {
+        margin-left: 115px;
+    }
+
+    .first-time .span-dot {
+        left: 94px;
+    }
+
+    .second-time {
+        text-align: right !important;
+        margin-right: 196px;
+        margin-top: 36px;
+    }
+
+    .second-time .span-dot{
+        right: 160px;
+        left: auto;
+        top: 41px;
+    }
+
+    .third-time {
+        margin-left: 70px;
+        position: relative;
+        bottom: 0;
+        top: 30px;
+    }
+
+    .third-time .span-dot {
+        left: -40px;
+    }
+
+    .fourth-time {
+        text-align: right !important;
+        position: relative;
+        top: 102px;
+    }
+
+    .fourth-time .span-dot{
+        right: -38px;
+        left: auto;
+    }
+
+    .crietria .sec-title {
+        margin-top: 672px;
+    }
+
+    .schedule .sec-title {
+        margin-top: 600px;
+    }
+
+    .schedule {
+        position: relative;
+        z-index: 2;
+        min-height: 1569px;
+    }
+}
+
+@media (min-width: 470px) and (max-width: 768px) {
+    .bg-main {
+        width: 660px;
+        top: 310px;
+    }
+
+    .hero-text {
+        margin-top: 70px;
+    }
+
+    .h-window {
+        min-height: 254px;
+    }
+
+    .hero-text {
+        text-align: center;
+    }
+
+    .about-text {
+        margin-top: 600px;
+        text-align: center;
+        padding-right: 107px;
+    }
+
+    .about-text p, .about-text span, .about-text pre, .about-text li, .about-text div {
+        font-size: 16px;
+    }
+
+    .about-tags {
+        padding-right: 107px;
+        text-align: center;
+    }
+
+    .about-tags a {
+        padding: 4px 10px;
+        font-size: 12px;
+        margin-right: 5px;
+    }
+
+    .steps .sec-title {
+        margin-top: 560px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .timeline-item {
+        text-align: left !important;
+        position: static;
+    }
+
+    .span-dot {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .step-item {
+        margin-bottom: 35px;
+    }
+
+    .step-item h4, .step-item h3 {
+        font-size: 20px;
+    }
+
+    .step-item p {
+        font-size: 15px;
+    }
+
+    .timeline .sec-title {
+        margin-top: 388px;
+    }
+
+    .timline-holder {
+        margin-top: 120px;
+    }
+
+    .first-time {
+        margin-left: 80px;
+    }
+
+    .first-time .span-dot {
+        left: 57px;
+    }
+
+    .second-time {
+        text-align: right !important;
+        margin-right: 127px;
+        margin-top: 36px;
+    }
+
+    .second-time .span-dot{
+        right: 104px;
+        left: auto;
+        top: 41px;
+    }
+
+    .third-time {
+        margin-left: 25px;
+        position: relative;
+        bottom: 0;
+        top: 30px;
+    }
+
+    .third-time .span-dot {
+        left: -40px;
+    }
+
+    .fourth-time {
+        text-align: right !important;
+        position: relative;
+        top: 38px;
+        right: 81px;
+        left: auto;
+    }
+
+    .fourth-time .span-dot{
+        right: -38px;
+        left: auto;
+    }
+
+    .crietria .sec-title {
+        margin-top: 480px;
+    }
+
+    .schedule .sec-title {
+        margin-top: 500px;
+    }
+
+    .schedule {
+        padding-left: 0;
+    }
+
+    .sc-item {
+        margin-bottom: 40px;
+    }
+
+    .sc-item span.btn {
+        padding: 3px 9px;
+        font-size: 14px;
+    }
+
+    .sc-item li {
+        font-size: 15px;
+    }
+
+    .schedule {
+        min-height: 1365px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 470px) {
+    .container {
+        width: 300px;
+    }
+
+    .bg-main {
+        width: 400px;
+        top: 245px;
+    }
+
+    .hero-text {
+        margin-top: 44px;
+    }
+
+    .h-window {
+        min-height: 254px;
+    }
+
+    .hero-text {
+        text-align: center;
+        min-height: 232px;
+    }
+
+    .hero-text h2,
+    .hero-text h3{
+        font-size: 18px !important;
+    }
+
+    .hero-text p {
+        font-size: 14px;
+    }
+
+    .hero-text a {
+        padding: 4px 17px;
+        font-size: 14px;
+    }
+
+    .btn-falak-blue {
+        font-size: 14px;
+        padding: 4px 10px;
+    }
+
+    .navbar-toggler-icon {
+        width: 20px;
+    }
+
+    .navbar-brand, .navbar-light .navbar-brand h1 {
+        font-size: 12px !important;
+    }
+
+    .fixed-menu-left {
+        display: none;
+    }
+
+    .about-us {
+        text-align: center;
+    }
+
+    .about-text p, .about-text span, .about-text pre, .about-text li, .about-text div {
+        font-size: 12px;
+    }
+
+    .about-text {
+        margin-top: 367px;
+        min-height: 108px;
+    }
+
+    .about-tags a {
+        font-size: 10px;
+        margin-right: 5px;
+        padding: 4px 7px;
+        margin-bottom: 5px;
+    }
+
+    .about-tags {
+        margin-top: 0;
+        min-height: 90px;
+    }
+
+    .steps .sec-title {
+        margin-top: 255px;
+    }
+
+    .sec-title h4, .sec-title h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .step-item h4, .step-item h3 {
+        font-size: 16px;
+    }
+
+    .step-item p {
+        font-size: 12px;
+        height: 36px;
+        overflow: hidden;
+    }
+
+    .step-item {
+        margin-bottom: 10px;
+    }
+
+    .steps.h-window {
+        min-height: 587px;
+    }
+
+    .timeline .sec-title {
+        margin-top: 128px;
+    }
+
+    .timline-holder {
+        margin-top: 55px;
+    }
+
+    .timeline-item h4, .timeline-item h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .timeline-item p {
+        font-size: 14px;
+    }
+
+    .timeline-item {
+        text-align: left !important;
+        position: static;
+    }
+
+    .span-dot {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .first-time {
+        margin-left: 40px;
+    }
+
+    .first-time .span-dot {
+        left: 27px;
+    }
+
+    .second-time {
+        text-align: right !important;
+        margin-right: 44px;
+        margin-top: 0;
+        position: relative;
+        bottom: auto;
+        top: -53px;
+    }
+
+    .second-time .span-dot{
+        right: -24px;
+        left: auto;
+        top: 0;
+    }
+
+    .third-time {
+        margin-left: 18px;
+        position: relative;
+        bottom: 0;
+        top: -100px;
+    }
+
+    .third-time .span-dot {
+        left: -40px;
+    }
+
+    .fourth-time {
+        text-align: right !important;
+        position: relative;
+        top: -157px;
+        right: 52px;
+        left: auto;
+    }
+
+    .fourth-time .span-dot{
+        right: -38px;
+        left: auto;
+    }
+
+    .crietria .sec-title {
+        margin-top: 29px;
+    }
+
+    .schedule {
+        padding-left: 0;
+    }
+
+    .sc-item {
+        margin-bottom: 0;
+    }
+
+    .sc-item span.btn {
+        padding: 3px 9px;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+
+    .sc-item li {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .schedule [class*=col]{
+        width: 50%;
+    }
+
+    .schedule .sec-title {
+        margin-top: 171px;
+        margin-bottom: 28px;
+    }
+
+    .schedule {
+        min-height: 961px;
+    }
+}
+
+@media (max-width: 1030px) {
+    .hero-text h2 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 991px) {
+    .hide-mobile {
+        display: none;
+    }
+
+    .hide-desktop {
+        display: block !important;
+    }
+}
+
+@media (min-width: 991px) {
+    .hide-mobile {
+        display: block;
+    }
+
+    .hide-desktop {
+        display: none;
+    }
+}
+
+@media (max-width: 500px) {
+    .navbar-brand, .navbar-light .navbar-brand h1 {
+        font-size: 15px;
+    }
+
+    .navbar-light .navbar-toggler {
+        padding: 4px 7px;
+    }
+}
